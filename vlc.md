@@ -19,27 +19,21 @@ VLC Chocolate
 
 #### Ready to use
 
-- [75% Chocolate Base](http://shop.borgodoro.it/products/chocolate-base-75): 98.08 %
-- [Liquorice Powder](http://shop.borgodoro.it/products/liquorice-powder): 1.73%
-- [Guarana Powder](http://shop.borgodoro.it/products/guarana-powder): 0.21%
+- [75% Chocolate Base](http://shop.borgodoro.it/products/chocolate-base-75): 97.05%
+- [Liquorice Powder](http://shop.borgodoro.it/products/liquorice-powder): 2.1%
+- [Guarana Powder](http://shop.borgodoro.it/products/guarana-powder): 0.4%
 
 ### Instructions
 
-Guarana has a spicy flavour that is countered by liquorice.
-
-#### Smooth Variant
+> Guarana has a bitter-spicy flavour that is countered by liquorice.
 
 Blend every ingredient together to make guarana and liquorice subtly enhance
 the chocolate flavour without being noticed too much.
+The liquorice aftertaste remain strong after the last bite.
 
-- Temper the [75% Chocolate Base](http://shop.borgodoro.it/products/chocolate-base-75) at **42C** while pouring the [Guarana Powder](http://shop.borgodoro.it/products/guarana-powder) and the [Liquorice Powder](http://shop.borgodoro.it/products/liquorice-powder).
-- Press it on the stamps and let it cool gradually till it gets to **21C**.
-
-#### Uneven Variant
-
-The liquorice would feel stronger, the guarana spicy flavour would be noticed.
-Every bite will surprise.
-
-- Temper the [75% Chocolate Base](http://shop.borgodoro.it/products/chocolate-base-75) at **40C** while pouring the [Guarana Powder](http://shop.borgodoro.it/products/guarana-powder).
-- Once it cools down at around **32C** add the [Liquorice Powder](http://shop.borgodoro.it/products/liquorice-powder).
-- Press it on the stamps and let it cool gradually till it gets to **21C**.
+- Melt the [75% Chocolate Base](http://shop.borgodoro.it/products/chocolate-base-75) at **48.5C** never go under **42C**
+- Temper the [75% Chocolate Base](http://shop.borgodoro.it/products/chocolate-base-75) at **29.2C**
+- Warm it again at **30.8C** and mix the [Guarana Powder](http://shop.borgodoro.it/products/guarana-powder) and the [Liquorice Powder](http://shop.borgodoro.it/products/liquorice-powder).
+- Dry and warm the molds at **30.8C**.
+- Press the chocolate in the molds.
+- Cool it down gradually from **14C** to **7C** in 25min.
