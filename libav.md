@@ -31,12 +31,13 @@ Libav Chocolate
 > Cardamom and mint will mask almost completely the mate flavour.
 > The aftertaste will clean the mouth deeply.
 
-Mint essence is highly volatile so should be used cold when possible.
+Mint essence is highly volatile, keep the chocolate in a sealed container once
+it is done..
 
 - Melt the [75% Chocolate Base](http://shop.borgodoro.it/products/chocolate-base-75) at **48.5C** never go under **42C**
 - Temper the [75% Chocolate Base](http://shop.borgodoro.it/products/chocolate-base-75) at **29.2C**
-- Warm it again at **30.8C** and mix [Mate Powder](http://shop.borgodoro.it/products/mate-powder) and [Cardamom](http://shop.borgodoro.it/products/cardamom).
+- Mix [Mate Powder](http://shop.borgodoro.it/products/mate-powder) and [Cardamom](http://shop.borgodoro.it/products/cardamom) and have it soak the [Mint Essence](http://shop.borgodoro.it/products/mint-essence).
+- Warm it again at **30.8C** and merge the previously made mix with the chocolate..
 - Dry and warm the molds at **30.8C**.
 - Press the chocolate in the molds.
 - Cool it down gradually from **14C** to **7C** in 25min.
-- Spray the [Mint Essence](http://shop.borgodoro.it/products/mint-essence) over it.
